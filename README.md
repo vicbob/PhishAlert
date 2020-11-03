@@ -2,7 +2,7 @@
 Phish alert is a chrome browser extension for detecting phishing webpages
 
 ## Note:
-This package is only functional on Chrome browser
+This package is only functional on a desktop Chrome browser
 
 ### To add this package:
 * Clone/download this repository
