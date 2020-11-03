@@ -1,0 +1,10 @@
+.container{
+    width:15.8rem;
+    border: none;
+    color: rgb(42, 11, 94);
+    background-color: rgb(247, 251, 255);
+}
+
+html{
+    border-radius: 8px;
+}

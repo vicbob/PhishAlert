@@ -1,0 +1,29 @@
+{
+  "name": "PhishAlert",
+  "version": "1.0",
+  "description": "A great tool for phishing detection",
+  "permissions": ["activeTab", "declarativeContent", "storage",
+    "http://*/*", 
+    "https://*/*"],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/shield-16.png",
+      "32": "images/shield-32.png",
+      "48": "images/shield-64.png",
+      "128": "images/shield-128.png"
+    }
+  },
+  "icons": {
+    "16": "images/shield-16.png",
+    "32": "images/shield-32.png",
+    "48": "images/shield-64.png",
+    "128": "images/shield-128.png"
+  },
+  "manifest_version": 2
+}
