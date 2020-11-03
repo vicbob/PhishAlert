@@ -5,11 +5,11 @@ Phish alert is a chrome browser extension for detecting phishing webpages
 This package is only functional on a desktop Chrome browser
 
 ### To add this package:
-* Clone/download this repository
+* Clone/download this repository (Extract folder if downloaded)
 * Navigate to chrome://extensions/
 * Enable developer mode in the top right hand corner
 * Select load unpacked in the top left corner of the page (this will ask you to select a folder)
-* Select the PhishAlert folder
+* Select the downloaded PhishAlert folder
 * Follow the prompt to add the extension
 
 ### To use this package:
